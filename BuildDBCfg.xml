@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<Config>
+		<Scheme DealHField="false" Description="试试管线成图方案" Name="试试管线成图方案">
+			<PointFields>
+				<Field Source="物探点号" Standard="特征点"/>
+				<Field Source="id" Standard="附属物"/>
+				<Field Source="物探点号" Standard="井盖类型"/>
+			</PointFields>
+		</Scheme>
+	</Config>
